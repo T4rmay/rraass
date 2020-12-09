@@ -86,7 +86,7 @@ print  """
 """
 
 RH = """
-\x1b[31;1m   __This Tool Create by rasha WA7SH
+\x1b[31;1m   __This Tool Create by clay
 \x1b[37;1m
 \x1b[31;1m___     ___  _____  _    ____
    / \ \   / / \|_   _|/ \  |  _ \
@@ -97,7 +97,7 @@ RH = """
 \x1b[31;1m
 """
 print(RH)
-CorrectUsername = "avatar"
+CorrectUsername = "clay"
 CorrectPassword = "up"
 loop = 'true'
 while (loop == 'true'):
