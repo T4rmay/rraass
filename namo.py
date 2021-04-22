@@ -52,11 +52,14 @@ def anime(z):
 #### LOGO ####
 logo = """
 \x1b[31;1m
-\x1b[31;1m___     ___  _____  _    ____
-   / \ \   / / \|_   _|/ \  |  _ \
-  / _ \ \ / / _ \ | | / _ \ | |_) |
- / ___ \ V / ___ \| |/ ___ \|  _ <
-/_/   \_\_/_/   \_\_/_/   \_\_| \_\
+\x1b[31;1m  /$$$$$$$  /$$   /$$ /$$   /$$ /$$   /$$  /$$$$$$ 
+| $$____/ | $$  | $$| $$  | $$| $$  /$$/ /$$__  $$
+| $$      | $$  | $$| $$  | $$| $$ /$$/ | $$  \ $$
+| $$$$$$$ | $$$$$$$$| $$$$$$$$| $$$$$/  | $$$$$$$$
+|_____  $$| $$__  $$|_____  $$| $$  $$  | $$__  $$
+ /$$  \ $$| $$  | $$      | $$| $$\  $$ | $$  | $$
+|  $$$$$$/| $$  | $$      | $$| $$ \  $$| $$  | $$
+ \______/ |__/  |__/      |__/|__/  \__/|__/  |__/                                                
 \x1b[31;1m
 \x1b[31;1m
 \x1b[31;1m  
@@ -79,26 +82,29 @@ vuln = "\033[32mVuln"
 os.system("clear")
 print  """
 \x1b[37;1m+×+×+×+×+×+×+×+×+×+×+×+×+×+×+×+×++×+×+×+×+
-\x1b[31;1m@              AVATAR                 @
+\x1b[31;1m@              SHAKA                     @
 \x1b[31;1m@              Version: 2                @                
 \x1b[31;1m@              FB Grabber                @
 \x1b[37;1m+×+×+×+×+×+×+×+×+×+×+×+×+×+×+×+×++×+×+×+×+
 """
 
 RH = """
-\x1b[31;1m   __This Tool Create by clay
+\x1b[31;1m   __This Tool Create by 5h4ka
 \x1b[37;1m
-\x1b[31;1m___     ___  _____  _    ____
-   / \ \   / / \|_   _|/ \  |  _ \
-  / _ \ \ / / _ \ | | / _ \ | |_) |
- / ___ \ V / ___ \| |/ ___ \|  _ <
-/_/   \_\_/_/   \_\_/_/   \_\_| \_\
+\x1b[31;1m  /$$$$$$$  /$$   /$$ /$$   /$$ /$$   /$$  /$$$$$$ 
+| $$____/ | $$  | $$| $$  | $$| $$  /$$/ /$$__  $$
+| $$      | $$  | $$| $$  | $$| $$ /$$/ | $$  \ $$
+| $$$$$$$ | $$$$$$$$| $$$$$$$$| $$$$$/  | $$$$$$$$
+|_____  $$| $$__  $$|_____  $$| $$  $$  | $$__  $$
+ /$$  \ $$| $$  | $$      | $$| $$\  $$ | $$  | $$
+|  $$$$$$/| $$  | $$      | $$| $$ \  $$| $$  | $$
+ \______/ |__/  |__/      |__/|__/  \__/|__/  |__/                                                
 \x1b[37;1m
 \x1b[31;1m
 """
 print(RH)
-CorrectUsername = "clay"
-CorrectPassword = "up"
+CorrectUsername = "fuck"
+CorrectPassword = "you"
 loop = 'true'
 while (loop == 'true'):
     username = raw_input("\x1b[34;1m👨‍ \x1b[1;95mID \x1b[31;1m@Daxilka>>\x1b[1;91m")
@@ -111,10 +117,10 @@ while (loop == 'true'):
             loop = 'false'
         else:
             print "\033[1;96m Passwordakat Halaya"
-            print " Tkaya Bba andam la Staff Avatar Ta ID w Pass Dast Kawet"
+            print " Tkaya Bba andam la Staff 5h4ka Ta ID w Pass Dast Kawet"
     else:
         print "\033[1;96mIDya Kat Halaya "
-        print "Tkaya Bba andam la Staff Avatar Ta ID w Pass Dast Kawet"
+        print "Tkaya Bba andam la Staff 5h4ka Ta ID w Pass Dast Kawet"
 
 def login():
 	os.system('clear')
